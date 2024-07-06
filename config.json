@@ -1,0 +1,7 @@
+{
+    "inputFilePath":"./",
+    "specificFilePath": "",
+    "autoModelName":"autoModel",
+    "ankiConnectHost":"http://127.0.0.1:8765",
+    "mubuBaseUrl": "https://document-image.mubu.com/"
+}

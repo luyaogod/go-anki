@@ -1,0 +1,5 @@
+# 可执行文件
+*to-anki*
+
+# 调试时的配置文件，如果在app目录下执行go run . 需要重新创建
+app/config.json
