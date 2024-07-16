@@ -71,7 +71,7 @@ func (anki *AnkiApi) AddAutoModel() error {
 				{
 					Name:  "卡片 1",
 					Front: `{{front}}<div></div>{{frontImg}}`,
-					Back:  `{{front}}<div>{{frontImg}}</div>\n\n<hr id=answer>\n\n{{back}}<div>{{backImg}}</div>`,
+					Back:  `{{front}}<div>{{frontImg}}</div><hr id=answer>{{back}}<div>{{backImg}}</div>`,
 				},
 			},
 		},

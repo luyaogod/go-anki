@@ -30,7 +30,9 @@ go build .
 ![自动生成问答卡片](static/shuoming3.png)
 
 ### 如何导入到已经存在的Anki卡组
+
 我们可以将笔记导入指定的卡片组中，比如高等数学笔记的第一章，只需更改配置文件
+
 ```json
 {
     "inputFilePath":"./",
